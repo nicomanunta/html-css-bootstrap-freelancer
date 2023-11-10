@@ -10,19 +10,65 @@
 .row{
     height: 100%;
 }
-
-.col-6{
-    
+.content{
+    height: 100%;
+}
+.bgcolor-red{
     background-color: red;
 }
-.col-12{
-    
+.bgcolor-green{
+    background-color: green;
 }
+
 /* MAIN */
 /* START BOOTSTRAP */
 .height-300{
     height: 300px;
 }
-.col-12{
+.bgcolor-aqua{
     background-color: aqua;
+   
+}
+/* PORTFOLIO */
+.height-1200{
+    height: 1200px;
+}
+.bgcolor-brown{
+    background-color: brown;
+}
+.bgcolor-yellow{
+    background-color: yellow;
+}
+.bgcolor-orange{
+    background-color: orange;
+}
+.bgcolor-black{
+    background-color: black;
+}
+.bgcolor-blue{
+    background-color: blue;
+}
+.bgcolor-grey{
+    background-color: grey;
+}
+.bgcolor-lime{
+    background-color:;
+}
+
+/* ABOUT */
+.height-600{
+    height: 600px;
+    background-color: purple;
+}
+.bgcolor-coral{
+    background-color: coral;
+}
+.bgcolor-pink{
+    background-color: pink;
+}
+.bgcolor-navy{
+    background-color: navy;
+}
+.bgcolor-olive{
+    background-color: olive;
 }
