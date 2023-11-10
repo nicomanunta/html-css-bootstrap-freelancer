@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* HEADER */
+.height-40{
+    height: 40px;
+}
+.row{
+    height: 100%;
+}
+
+.col-6{
+    
+    background-color: red;
+}
+.col-12{
+    
+}
+/* MAIN */
+/* START BOOTSTRAP */
+.height-300{
+    height: 300px;
+}
+.col-12{
+    background-color: aqua;
+}
