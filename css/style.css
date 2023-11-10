@@ -76,3 +76,26 @@
 .height-400{
     height: 400px;
 }
+.bgcolor-magenta{
+    background-color: magenta;
+}
+.bgcolor-gold{
+    background-color: gold;
+}
+.bgcolor-cyan{
+    background-color: cyan;
+}
+/* LOCATION / AROUND THE WEB / ABOUT FREELANCER */
+.height-300{
+    height: 300px;
+    background-color: lightgray;
+}
+.bgcolor-crimson{
+    background-color: crimson;
+}
+.bgcolor-darkblue{
+    background-color: darkblue;
+}
+.bgcolor-deeppink{
+    background-color: deeppink;
+}
