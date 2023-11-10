@@ -52,12 +52,12 @@
     background-color: grey;
 }
 .bgcolor-lime{
-    background-color:;
+    background-color: lime;
 }
 
 /* ABOUT */
-.height-600{
-    height: 600px;
+.height-450{
+    height: 450px;
     background-color: purple;
 }
 .bgcolor-coral{
@@ -71,4 +71,8 @@
 }
 .bgcolor-olive{
     background-color: olive;
+}
+/* CONTACT ME */
+.height-400{
+    height: 400px;
 }
