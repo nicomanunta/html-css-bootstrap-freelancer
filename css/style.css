@@ -10,7 +10,7 @@ body{
 header{
     background-color: rgba(44,62,80,255);
 }
-.fontsize{
+.fontsize-12{
     font-size: 12px;
     padding-top: 4px ;
 }
@@ -23,12 +23,37 @@ header{
 .bg-start{
     background-color:rgba(26,188,156,255);
 }
-.height-300{
-    height: 300px;
-}
+
 .bgcolor-aqua{
     background-color: aqua;
    
+}
+
+.stella {
+    margin: 100px auto;
+    font-size: 40px;
+    max-width: 600px;
+    position: relative;
+}
+.stella:before {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 5px;
+    background: #ffffff;
+    left: 85px;
+    top: 50%;
+    position: absolute;
+}
+.stella:after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 5px;
+    background: #ffffff;
+    right: 85px;
+    top: 50%;
+    position: absolute;
 }
 /* PORTFOLIO */
 .height-1000{
