@@ -3,25 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 /* HEADER */
 header{
     background-color: rgba(44,62,80,255);
 }
-.height-40{
-    height: 40px;
-}
-.row{
-    height: 100%;
-}
-.content{
-    height: 100%;
-}
-.bgcolor-red{
-    background-color: red;
-}
-.bgcolor-green{
-    background-color: green;
-}
+
+
+
 
 /* MAIN */
 /* START BOOTSTRAP */
