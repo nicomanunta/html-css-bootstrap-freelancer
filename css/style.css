@@ -31,12 +31,12 @@ header{
 
 .stella {
     margin: 100px auto;
+    text-align: center;
     font-size: 40px;
     max-width: 600px;
     position: relative;
-}
+  }
 .stella:before {
-    content: "";
     display: block;
     width: 150px;
     height: 5px;
@@ -44,7 +44,7 @@ header{
     left: 85px;
     top: 50%;
     position: absolute;
-}
+  }
 .stella:after {
     content: "";
     display: block;
@@ -54,11 +54,13 @@ header{
     right: 85px;
     top: 50%;
     position: absolute;
-}
+  }
 /* PORTFOLIO */
-.height-1000{
-    height: 1000px;
+.color-title{
+    color: rgba(44,62,80,255);
 }
+
+
 .bgcolor-brown{
     background-color: brown;
 }
