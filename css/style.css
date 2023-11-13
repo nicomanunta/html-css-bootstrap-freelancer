@@ -84,34 +84,24 @@ header{
 }
 
 /* ABOUT */
-.height-450{
-    height: 450px;
+
+.downlod-black:hover{
+    color: black;
 }
-.bgcolor-coral{
-    background-color: coral;
-}
-.bgcolor-pink{
-    background-color: pink;
-}
-.bgcolor-navy{
-    background-color: navy;
-}
-.bgcolor-olive{
-    background-color: olive;
-}
+
 /* CONTACT ME */
-.height-400{
-    height: 400px;
+.input-border{
+    width: 100%;
+    background-color: white;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    border-radius: 0px;
 }
-.bgcolor-magenta{
-    background-color: magenta;
+.button-color{
+    background-color: rgba(26,188,156,255);
+    color: white;
 }
-.bgcolor-gold{
-    background-color: gold;
-}
-.bgcolor-cyan{
-    background-color: cyan;
-}
+
 /* FOOTER */
 /* LOCATION / AROUND THE WEB / ABOUT FREELANCER */
 .bg-location{
