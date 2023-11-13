@@ -16,18 +16,16 @@ header{
 }
 
 
-
-
 /* MAIN */
 /* START BOOTSTRAP */
 .bg-start{
     background-color:rgba(26,188,156,255);
 }
-
-
-
-
-.stella {
+.dimensioni{
+    max-width: 400px;
+    width: 50%;
+}
+/* .stella {
     margin: 100px auto;
     text-align: center;
     font-size: 40px;
@@ -52,7 +50,7 @@ header{
     right: 85px;
     top: 50%;
     position: absolute;
-  }
+  } */
 /* PORTFOLIO */
 .color-title{
     color: rgba(44,62,80,255);
