@@ -24,10 +24,8 @@ header{
     background-color:rgba(26,188,156,255);
 }
 
-.bgcolor-aqua{
-    background-color: aqua;
-   
-}
+
+
 
 .stella {
     margin: 100px auto;
@@ -60,29 +58,6 @@ header{
     color: rgba(44,62,80,255);
 }
 
-
-.bgcolor-brown{
-    background-color: brown;
-}
-.bgcolor-yellow{
-    background-color: yellow;
-}
-.bgcolor-orange{
-    background-color: orange;
-}
-.bgcolor-black{
-    background-color: black;
-}
-.bgcolor-blue{
-    background-color: blue;
-}
-.bgcolor-grey{
-    background-color: grey;
-}
-.bgcolor-lime{
-    background-color: lime;
-}
-
 /* ABOUT */
 
 .downlod-black:hover{
@@ -107,27 +82,24 @@ header{
 .bg-location{
     background-color: rgba(58,84,109,255);
 }
-.height-250{
-    height: 250px;
-    
+.bordi-icone{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 14px 15px;
 }
-.bgcolor-crimson{
-    background-color: crimson;
+.bordo-facebook{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 12px 15px;
+
 }
-.bgcolor-darkblue{
-    background-color: darkblue;
+.text-color{
+    color: rgba(26,188,156,255);
 }
-.bgcolor-deeppink{
-    background-color: deeppink;
+.fontsize-14{
+    font-size: 15px;
 }
 /* COPYRIGHT */
 .bg-copyright{
     background-color: rgba(44,62,80,255);
-}
-.height-100{
-    height: 100px;
-    
-}
-.bgcolor-lightblue{
-    background-color: lightblue;
 }
