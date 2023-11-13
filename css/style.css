@@ -10,6 +10,10 @@ body{
 header{
     background-color: rgba(44,62,80,255);
 }
+.fontsize{
+    font-size: 12px;
+    padding-top: 4px ;
+}
 
 
 
