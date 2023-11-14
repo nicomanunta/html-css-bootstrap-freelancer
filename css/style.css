@@ -25,32 +25,39 @@ header{
     max-width: 400px;
     width: 50%;
 }
-/* .stella { 
-    margin: 100px auto;
+.stella-chiara, .stella-scura { 
+    margin: 20px auto;
     text-align: center;
     font-size: 40px;
     max-width: 600px;
     position: relative;
   }
-.stella:before {
-    display: block;
-    width: 150px;
-    height: 5px;
-    background: #ffffff;
-    left: 85px;
-    top: 50%;
-    position: absolute;
-  }
-.stella:after {
+.stella-chiara:before, .stella-scura:before  {
     content: "";
     display: block;
     width: 150px;
     height: 5px;
-    background: #ffffff;
+    left: 85px;
+    top: 50%;
+    position: absolute;
+  }
+  .stella-chiara:before, .stella-chiara:after{
+    background-color: #ffffff;
+  }
+.stella-chiara:after, .stella-scura:after  {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 5px;
     right: 85px;
     top: 50%;
     position: absolute;
-  } */
+}
+.stella-scura:after, .stella-scura:before{
+    background-color: rgba(44,62,80,255);
+}
+
+  
 /* PORTFOLIO */
 .color-title{
     color: rgba(44,62,80,255);
